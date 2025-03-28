@@ -22,11 +22,11 @@ Which countries are ecological outliers?
 
 ## Website link : 
 
-Website coming soon
+insert website link when finished
 
 ## Further insight on the project.
 
-[Our scoping document](./Scoping_Document.md)
+inserd md file
 
 ## Crew :
 
@@ -36,4 +36,5 @@ Website coming soon
 
 ## Where the dataset came from :
 
-[Our dataset](https://transport.data.gouv.fr/datasets/velib-velos-et-bornes-disponibilite-temps-reel)
+Inset link
+
