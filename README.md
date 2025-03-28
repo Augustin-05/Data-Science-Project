@@ -26,8 +26,7 @@ insert website link when finished
 
 ## Further insight on the project.
 
-
-[Our scoping document](./moreaboutus.md)
+[More about the project](./moreaboutus.md)
 
 ## Crew :
 
