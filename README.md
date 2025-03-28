@@ -26,7 +26,8 @@ insert website link when finished
 
 ## Further insight on the project.
 
-insert md file link
+
+[Our scoping document](./moreaboutus.md)
 
 ## Crew :
 
