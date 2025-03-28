@@ -26,7 +26,7 @@ insert website link when finished
 
 ## Further insight on the project.
 
-inserd md file
+insert md file link
 
 ## Crew :
 
