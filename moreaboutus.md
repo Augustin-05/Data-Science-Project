@@ -2,7 +2,7 @@
 
 ### Problem Statement 
 
-As the world faces increasing environmental challenges, countries are under pressure to balance economic growth and population expansion with ecological sustainability. However, the relationship between a nation’s wealth, demographics, and environmental impact remains complex and underexplored.
+As the world faces increasing environmental challenges, countries are under pressure to balance economic growth and population expansion with ecological sustainability. 
 Our goal is to analyze international data to detect patterns between economic development, population characteristics, and ecological footprint. Through data analysis and visualization, we aim to uncover insights that can inform better sustainability policies at the national and global level.
 
 ### Target Audience
