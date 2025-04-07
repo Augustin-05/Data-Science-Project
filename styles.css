@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  background-color: #f5f5f5;
+  margin: 40px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 30px;
+  color: #333;
+}
+
+svg {
+  background: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.bar {
+  opacity: 0.8;
+  transition: 0.3s;
+}
+
+.bar.positive {
+  fill: green;
+}
+
+.bar.negative {
+  fill: red;
+}
+
+.bar:hover {
+  opacity: 1;
+  stroke: #000;
+  stroke-width: 1;
+}
+
+.axis-label {
+  font-size: 12px;
+  fill: #444;
+}
+
+text {
+  font-size: 12px;
+}
