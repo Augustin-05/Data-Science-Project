@@ -30,9 +30,20 @@ insert website link when finished
 
 ## Crew :
 
-- Augustin Couvreur : ____
-- Eva Maman : ___
-- Tom Lorin : ____
+Tom Lorin
+Role: Website Designer
+
+Tom led the design of the website, using tools such as css, javascript as well as html to create the website. He implemented the D3.js work of Eva Maman and Augustin Couvreur inside of the website and worked to make the website as understandable and professional as possible.
+
+Eva Maman
+Role: Data Analyst
+
+Eva Maman played a central role in analyzing the dataset using D3.js and HTML. Her deep understanding of the data enabled her to explore multiple relations between variables. Through thoughtful data exploration and visual storytelling, Eva produced a series of compelling graphics that were instrumental in communicating the team's findings.
+
+Augustin Couvreur
+Role: Data Analyst
+
+Augustin handled the analysis of the dataset using D3.js and html code. His undesrstanding of the dataset led him to analyse how the GDP per capita affects the carbon footprint of a country, and other optics. The graphics that Augustin produced were a key ingredient to the group's success. He also helped the finalisation of the website.
 
 ## Where the dataset came from :
 
