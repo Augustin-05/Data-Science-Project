@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="logo.png" type="image/png" />
+    <title>EcoMetric Insights - Data</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="FTTT Logo" />
+        </div>
+        <h1>EcoMetric Insights</h1>
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="data.html">Data</a></li>
+                <li><a href="contactus.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="graphcontainer">
+        <h1>World Ecological and Economic Insights</h1>
+        <p class="subtitle">A D3.js exploration of development, sustainability, and resources</p>
+    
+        <section id="graphsection">
+          <h2>Map: Carbon Footprint per GDP</h2>
+          <div id="map"></div>
+        </section>
+    
+        <section id="graphsection">
+          <h2>Scatter Plot: HDI vs GDP per Capita</h2>
+          <div id="scatter"></div>
+        </section>
+    
+        <section id="graphsection">
+          <h2>Bubble Chart: Ecological Footprint vs Biocapacity</h2>
+          <div id="bubble"></div>
+        </section>
+    
+    
+        <section id="comparison">
+        </section>
+    
+        <div id="tooltip" class="tooltip"></div>
+    </div>
+    
+    <script src="./script.js"></script>
+
+
+    <footer>
+        <p>2025 EcoMetric Insights | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
+
