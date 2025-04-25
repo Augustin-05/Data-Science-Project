@@ -110,7 +110,7 @@ tooltip.html(`<strong>${d.Country}</strong><br/>Ecological Footprint: ${d.Eco}<b
 })
 .on("mouseout", () => tooltip.style("opacity", 0));
 
-// Country Comparison (inchangé)
+// Country Comparison
 const countries = data.map(d => d.Country).sort();
 const selectorHTML = `
 <div class="compare-box">
